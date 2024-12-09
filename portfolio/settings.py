@@ -48,7 +48,7 @@ INSTALLED_APPS = [
     'django_bootstrap5',
 
     # my apps
-    'pages.apps.PagesConfig',
+    # 'pages.apps.PagesConfig',
     'projects.apps.ProjectsConfig',
 ]
 
